@@ -1931,4 +1931,4 @@ declare interface Mp {
 	joaat(strs: string[]): number[];
 }
 
-declare const mp: Mp;
+declare const servermp: Mp;

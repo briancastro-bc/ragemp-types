@@ -37,4 +37,4 @@ interface Window {
 	mp: Mp;
 }
 
-declare var mp: Mp;
+declare var cef: Mp;

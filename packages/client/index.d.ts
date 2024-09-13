@@ -3658,4 +3658,4 @@ declare interface Mp {
 	Vector3: typeof Vector3;
 }
 
-declare const mp: Mp;
+declare const clientmp: Mp;
